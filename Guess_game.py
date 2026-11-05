@@ -11,5 +11,8 @@ while guess != jackpot:
     guess = int(input("Guess The Number Between 1-100  "))
     counter += 1
 
+print("Correct Answer ")
+print("you took", counter, "attempts")
+
     
 
