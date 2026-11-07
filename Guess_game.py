@@ -12,7 +12,8 @@ while guess != jackpot:
     counter += 1
 
 
-
+print("Correct Answer ")
+print("you took", counter, "attempts")
     
 
 
